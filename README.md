@@ -5,3 +5,14 @@ in the project add empty folders named:
 mail_ids,
 content,
 attachments
+
+Required libraries:
+shutil,
+PyQt5,
+numpy,
+calendar,
+email,
+imaplib,
+smtplib,
+pickle,
+sklearn
